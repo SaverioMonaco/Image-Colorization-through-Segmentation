@@ -1,6 +1,6 @@
-# Project of Vision And Cognitive Services
+# Image Colorization
 
-## Image Colorization
+## Project of Vision And Cognitive Services
 
 #### [Saverio Monaco](https://github.com/SaverioMonaco/)
 #### [Filippo Zillotto](https://github.com/ZiliottoFilippoDev)
