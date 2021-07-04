@@ -7,6 +7,8 @@
 
 ### Development cycle using Google Colab
 
+<img src="https://raw.githubusercontent.com/SaverioMonaco/Image-Colorization-through-Segmentation/master/merging/index.png">
+
 #### Creating a branch
 First you need to update your local _master_ branch with the one present on GitHub:
 
