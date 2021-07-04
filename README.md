@@ -1,13 +1,14 @@
-# Image Colorization
+# Image Colorization through Segmentation
 
 ## Project of Vision And Cognitive Services
 
 #### [Saverio Monaco](https://github.com/SaverioMonaco/)
 #### [Filippo Zillotto](https://github.com/ZiliottoFilippoDev)
 
-### Development cycle using Google Colab
-
 <img src="https://raw.githubusercontent.com/SaverioMonaco/Image-Colorization-through-Segmentation/master/merging/index.png">
+
+
+### Development cycle using Google Colab
 
 #### Creating a branch
 First you need to update your local _master_ branch with the one present on GitHub:
